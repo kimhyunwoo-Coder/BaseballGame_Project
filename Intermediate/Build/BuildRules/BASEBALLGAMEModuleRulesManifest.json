@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\epic_games\\BaseballGame_Project\\Source\\BASEBALLGAME\\BASEBALLGAME.Build.cs",
+		"C:\\epic_games\\BaseballGame_Project\\Source\\BASEBALLGAME.Target.cs",
+		"C:\\epic_games\\BaseballGame_Project\\Source\\BASEBALLGAMEEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

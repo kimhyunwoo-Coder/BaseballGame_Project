@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BASEBALLGAME.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BASEBALLGAME.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BASEBALLGAMEEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BASEBALLGAME">
+      <UniqueIdentifier>{3333D38E-1082-3680-8665-F5B6195A40E6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BASEBALLGAME\BASEBALLGAME.Build.cs">
+      <Filter>Source\BASEBALLGAME</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BASEBALLGAME\BASEBALLGAME.cpp">
+      <Filter>Source\BASEBALLGAME</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BASEBALLGAME\BASEBALLGAME.h">
+      <Filter>Source\BASEBALLGAME</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BASEBALLGAME\BaseballGameModeBase.cpp">
+      <Filter>Source\BASEBALLGAME</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BASEBALLGAME\BaseballGameModeBase.h">
+      <Filter>Source\BASEBALLGAME</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BASEBALLGAME\BaseballGameStateBase.cpp">
+      <Filter>Source\BASEBALLGAME</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BASEBALLGAME\BaseballGameStateBase.h">
+      <Filter>Source\BASEBALLGAME</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BASEBALLGAME\BaseBallHUD.cpp">
+      <Filter>Source\BASEBALLGAME</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BASEBALLGAME\BaseBallHUD.h">
+      <Filter>Source\BASEBALLGAME</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BASEBALLGAME\BaseballLogic.cpp">
+      <Filter>Source\BASEBALLGAME</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BASEBALLGAME\BaseballLogic.h">
+      <Filter>Source\BASEBALLGAME</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BASEBALLGAME\BaseballPlayerController.cpp">
+      <Filter>Source\BASEBALLGAME</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BASEBALLGAME\BaseballPlayerController.h">
+      <Filter>Source\BASEBALLGAME</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BASEBALLGAME\BaseballPlayerState.cpp">
+      <Filter>Source\BASEBALLGAME</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BASEBALLGAME\BaseballPlayerState.h">
+      <Filter>Source\BASEBALLGAME</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BASEBALLGAME\BaseballUserWidget.cpp">
+      <Filter>Source\BASEBALLGAME</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BASEBALLGAME\BaseballUserWidget.h">
+      <Filter>Source\BASEBALLGAME</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BASEBALLGAME\GameOverWidget.cpp">
+      <Filter>Source\BASEBALLGAME</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BASEBALLGAME\GameOverWidget.h">
+      <Filter>Source\BASEBALLGAME</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BASEBALLGAME\MyHUD.cpp">
+      <Filter>Source\BASEBALLGAME</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BASEBALLGAME\MyHUD.h">
+      <Filter>Source\BASEBALLGAME</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
