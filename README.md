@@ -50,5 +50,5 @@ BaseballGameStateBase.cpp / h: 게임 상태를 저장하는 클래스입니다.
 "YOU WIN!" 또는 "GAME OVER" 메시지가 표시된 후, 10초 카운트다운이 시작되며, 게임은 리셋됩니다.
 
 
-#프로젝트 세팅
+# 프로젝트 세팅
 ![image](https://github.com/user-attachments/assets/21fe209c-41c6-4a2c-b73b-47c7a6123aed)
